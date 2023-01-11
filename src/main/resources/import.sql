@@ -1,0 +1,13 @@
+INSERT INTO customers (name,last_name,email,create_at) VALUES ('cristian','osorio','cristian@gmail.com','2001-10-27');
+INSERT INTO customers (name,last_name,email,create_at) VALUES ('samuel','ramirez','samuel@gmail.com','2001-10-27');
+INSERT INTO customers (name,last_name,email,create_at) VALUES ('jacobo','ramirez','jacobo@gmail.com','2001-10-27');
+INSERT INTO customers (name,last_name,email,create_at) VALUES ('albeiro','carrasquilla','albeiro@gmail.com','2001-10-27');
+INSERT INTO customers (name,last_name,email,create_at) VALUES ('milena','ramirez','milena@gmail.com','2001-10-27');
+INSERT INTO customers (name,last_name,email,create_at) VALUES ('jose','cardona','jose@gmail.com','2001-10-27');
+INSERT INTO customers (name,last_name,email,create_at) VALUES ('bety','marin','bety@gmail.com','2001-10-27');
+INSERT INTO customers (name,last_name,email,create_at) VALUES ('juan','ramirez','juan@gmail.com','2001-10-27');
+INSERT INTO customers (name,last_name,email,create_at) VALUES ('jenny','monroy','jenny@gmail.com','2001-10-27');
+INSERT INTO customers (name,last_name,email,create_at) VALUES ('maria','pacheco','maria@gmail.com','2001-10-27');
+INSERT INTO customers (name,last_name,email,create_at) VALUES ('paula','pacheco','paula@gmail.com','2001-10-27');
+INSERT INTO customers (name,last_name,email,create_at) VALUES ('admin','admin','admin@gmail.com','2001-10-27');
+INSERT INTO customers (name,last_name,email,create_at) VALUES ('user','user','user@gmail.com','2001-10-27');
